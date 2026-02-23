@@ -1,0 +1,89 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DeliveryApp.Api/1.0.0": {
+        "dependencies": {
+          "DeliveryApp.Infrastructure": "1.0.0",
+          "DeliveryApp.Service": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryApp.Api.dll": {}
+        }
+      },
+      "DeliveryApp.Application/1.0.0": {
+        "dependencies": {
+          "DeliveryApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryApp.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DeliveryApp.Domain/1.0.0": {
+        "runtime": {
+          "DeliveryApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DeliveryApp.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DeliveryApp.Application": "1.0.0",
+          "DeliveryApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryApp.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DeliveryApp.Service/1.0.0": {
+        "dependencies": {
+          "DeliveryApp.Application": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryApp.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryApp.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryApp.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\bin\Debug\net10.0\DeliveryApp.Application.deps.json
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\bin\Debug\net10.0\DeliveryApp.Application.dll
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\bin\Debug\net10.0\DeliveryApp.Application.pdb
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\bin\Debug\net10.0\DeliveryApp.Domain.dll
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\bin\Debug\net10.0\DeliveryApp.Domain.pdb
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\DeliveryApp.Application.csproj.AssemblyReference.cache
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\DeliveryApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\DeliveryApp.Application.AssemblyInfoInputs.cache
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\DeliveryApp.Application.AssemblyInfo.cs
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\DeliveryApp.Application.csproj.CoreCompileInputs.cache
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\DeliveryApp.Application.sourcelink.json
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\Delivery.A1EF81DE.Up2Date
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\DeliveryApp.Application.dll
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\refint\DeliveryApp.Application.dll
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\DeliveryApp.Application.pdb
+C:\GitHub\DeliveryApp\src\DeliveryApp.Application\obj\Debug\net10.0\ref\DeliveryApp.Application.dll
