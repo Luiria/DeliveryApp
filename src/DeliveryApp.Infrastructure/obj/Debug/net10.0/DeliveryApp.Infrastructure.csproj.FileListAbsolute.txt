@@ -16,3 +16,5 @@ C:\GitHub\DeliveryApp\src\DeliveryApp.Infrastructure\obj\Debug\net10.0\DeliveryA
 C:\GitHub\DeliveryApp\src\DeliveryApp.Infrastructure\obj\Debug\net10.0\refint\DeliveryApp.Infrastructure.dll
 C:\GitHub\DeliveryApp\src\DeliveryApp.Infrastructure\obj\Debug\net10.0\DeliveryApp.Infrastructure.pdb
 C:\GitHub\DeliveryApp\src\DeliveryApp.Infrastructure\obj\Debug\net10.0\ref\DeliveryApp.Infrastructure.dll
+C:\GitHub\DeliveryApp\src\DeliveryApp.Infrastructure\bin\Debug\net10.0\DeliveryApp.Infrastructure.runtimeconfig.json
+C:\GitHub\DeliveryApp\src\DeliveryApp.Infrastructure\obj\Debug\net10.0\DeliveryApp.Infrastructure.genruntimeconfig.cache
